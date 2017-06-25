@@ -1,2 +1,2 @@
-# Front-end-Dev
-This repo will host html5 and Java code 
+# Fullstack-Web-Development-Courses
+This repo will host html5 and Java codes 
